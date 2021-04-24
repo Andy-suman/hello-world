@@ -1,5 +1,5 @@
-# hello-world
-just for studying
+# Mybatis
+a project for studing Mybatis
 
 hello world
 I like code
